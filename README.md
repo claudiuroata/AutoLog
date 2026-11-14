@@ -4,6 +4,14 @@ A clean, modern Android application built with **Kotlin**, **Jetpack Compose**, 
 
 ---
 
+## Screenshots
+
+| Dashboard | Service & Fuel Logs | Maintenance Reminders | Cost Analytics |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/01-dashboard.png" width="200" alt="AutoLog Dashboard" /> | <img src="docs/screenshots/02-service-fuel-logs.png" width="200" alt="AutoLog Service and Fuel Logs" /> | <img src="docs/screenshots/03-maintenance-reminders.png" width="200" alt="AutoLog Maintenance Reminders" /> | <img src="docs/screenshots/04-cost-analytics.png" width="200" alt="AutoLog Cost Analytics" /> |
+
+---
+
 ## Key Features
 
 ### 1. Multi-Vehicle Management
